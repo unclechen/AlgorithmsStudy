@@ -1,5 +1,8 @@
 /*
-Spiral Matrix,旋转数组II：输入n,输出一个二维矩阵,由内向外每一层的元素值从1->n. 
+作者：unclechen
+博客：http://blog.csdn.net/nought03/article/details/39783509
+ 
+Spiral Matrix, 旋转数组变种：输入n,输出一个二维矩阵,由内向外每一层的元素值从1->n. 
 
 输入：
 3
